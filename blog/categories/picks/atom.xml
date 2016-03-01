@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: picks | User group for Viennese rubyists]]></title>
+  <link href="http://vienna-rb.at/blog/categories/picks/atom.xml" rel="self"/>
+  <link href="http://vienna-rb.at/"/>
+  <updated>2016-03-01T22:42:41+01:00</updated>
+  <id>http://vienna-rb.at/</id>
+  <author>
+    <name><![CDATA[vienna.rb team]]></name>
+    <email><![CDATA[viennarb@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
+    <link href="http://vienna-rb.at/blog/2016/02/24/picks/"/>
+    <updated>2016-02-24T14:00:00+01:00</updated>
+    <id>http://vienna-rb.at/blog/2016/02/24/picks</id>
+    <content type="html"><![CDATA[<h3>02/24 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the one-hundred-forty-third edition:</p>
+
+<h5><a href="https://twitter.com/senorhuidobro">Ramón</a>:</h5>
+
+<ul>
+<li><a href="https://www.youtube.com/watch?v=RZUDEaLa5Nw">Youtube: The Game Boy, a hardware autopsy - Part 1: the CPU</a> - The first in a series of videos explaining how the original Game Boy works.</li>
+<li><a href="http://bourbon.io/">Gem: Bourbon, Neat, and Bitters</a> - A modular, SASS-based alternative to Bootstrap.</li>
+<li><a href="https://github.com/openexchangerates/accounting.js">accounting.js</a> - A lightweight JavaScript framework for formatting currency values.</li>
+</ul>
+
+
+<h5><a href="https://twitter.com/nuclearsquid">Markus</a>:</h5>
+
+<ul>
+<li><a href="https://www.rubysteps.com/articles/2016/understand-tdd-by-asking-one-simple-question/">Understand TDD by asking one simple question</a> - Pat Maddox manages to boil down the basics of TDD into a simple question.</li>
+<li><a href="https://schweigi.github.io/assembler-simulator/">Simple 8-bit Assembler Simulator</a> - A complete simulation of a simple 8-bit assembler written in JavaScript, including visualizations of the CPU and memory. Great for exploring how a program actually works on a near-machine level.</li>
+<li><a href="http://laughingmeme.org/2016/01/10/towards-an-understanding-of-technical-debt/">Towards an understanding of technical debt</a> - &ldquo;Technical debt&rdquo; is an overloaded and messy term. Kellan Elliott-McCrea attempts to clear up some of the confusion and fuzzy definitions.</li>
+</ul>
+
+
+<h5><a href="http://twitter.com/viennahtml">Gerald</a>:</h5>
+
+<ul>
+<li><a href="http://talks.gettalong.org/2016-02-vienna-html">Using Markdown with the kramdown Library and Tools</a> -  by Thomas Leitner (author of kramdown from - surprise, surprise - Vienna); slides (in HTML)</li>
+<li><a href="https://github.com/viennahtml/members/issues/13">Vienna Opens World&rsquo;s 1st Dr. Jekyll Walk-in Clinic</a> - any question or trouble with static sites? Ask Dr. Jekyll and get free advice and in-person answers at the next meetup.</li>
+<li><a href="http://www.sitepoint.com/static-blogging-g-face-middleman-vs-jekyll">Static Blogging Tool Face-Off: Middleman vs Jekyll</a> - by David Turnbull published on SitePoint (Nov/2015)</li>
+<li><a href="https://gitlab.com/gitlab-examples/pages-middleman">GitLab Pages</a> - powered by - surprise, surprise - Middleman ;-)</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
+    <link href="http://vienna-rb.at/blog/2016/02/17/picks/"/>
+    <updated>2016-02-17T14:00:00+01:00</updated>
+    <id>http://vienna-rb.at/blog/2016/02/17/picks</id>
+    <content type="html"><![CDATA[<h3>02/17 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the one-hundred-forty-third edition:</p>
+
+<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
+
+<ul>
+<li><a href="https://matejlatin.github.io/Gutenberg/">Gutenberg</a> - A web typography starter kit</li>
+<li><a href="https://github.com/blog/2111-issue-and-pull-request-templates">Templates on GitHub</a> - GitHub have recently introduced Issue and Pull Request templates on their blog!</li>
+<li><a href="http://www.gitkraken.com/">Git Kraken</a> - There&rsquo;s a new Git GUI in town.</li>
+</ul>
+
+
+<h5><a href="https://twitter.com/nuclearsquid">Markus</a>:</h5>
+
+<ul>
+<li><a href="http://blog.rebased.pl/2016/02/03/so-you-want-to-use-pathnames.html">So You Want to Use Pathnames…</a> - If you&rsquo;re working with paths or filenames in Ruby, <a href="https://twitter.com/chastell">Piotr Szotkowski</a> shows why using the <code>Pathname</code> class is so much nicer than just using plain <code>String</code>s.</li>
+<li><a href="http://www.mikeperham.com/2016/02/09/kill-your-dependencies/">Kill Your Dependencies</a> - Dependency bloat afflicts all languages. In Ruby, it&rsquo;s especially easy to have your dependencies explode. <a href="https://twitter.com/mperham">Mike Perham</a> shares some tips on reducing your own dependencies.</li>
+<li><a href="http://jvns.ca/blog/2016/02/09/til-clock-skew-exists/">TIL: clock skew exists</a> - <a href="http://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html">Martin Kleppmann recently wrote a critique of the Redlock distributed locking algorithm</a>. Amongst his criticisms was that clocks can very easily become skewed. Julia Evans investigates this phenomenon a bit more, and what exactly can happen to a clock on a computer.</li>
+</ul>
+
+
+<h5><a href="https://twitter.com/tawan">Tawan</a>:</h5>
+
+<ul>
+<li><a href="http://fishshell.com/docs/current/design.html">Fish shell design documentation</a> - I recently switched from zsh to fish shell, and so far I&rsquo;m quite happy with it. If you haven&rsquo;t already, you should definitely take a look and <a href="https://fishshell.com/">try it out</a>. I picked the design documentation of Fish shell, because it&rsquo;s a good read and it resonates a lot with the experience I had so far.</li>
+</ul>
+
+
+<h5><a href="https://twitter.com/klappradla">Max</a>:</h5>
+
+<ul>
+<li><a href="http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/">How to prepare and write a tech conference talk</a> - Absolute guide to conference talks by <a href="https://twitter.com/lrnrd">Lena Reinhard</a>.</li>
+<li><a href="http://githubengineering.com/scientist/">Scientist: Measure Twice, Cut Over Once</a> - Insights on how Github rewrites parts of their system.</li>
+<li><a href="https://coolors.co/">Coolors</a> - Preferred way to find, choose or compare colorschemes (use your spacebar!).</li>
+</ul>
+
+
+<h5><a href="http://twitter.com/viennahtml">Gerald</a>:</h5>
+
+<ul>
+<li><a href="https://github.com/henrythemes/jekyll-boom-theme">Boom! Jekyll Starter Theme</a> - static site starter theme for books using boom! - a microformat for books</li>
+<li><a href="https://github.com/henrythemes/jekyll-gutenberg-theme">Gutenberg Jekyll Starter Theme</a> - another static site starter theme for classic books using gutenberg - a web typography starter kit</li>
+<li><a href="http://planetjekyll.github.io/book-jekyll">Free Jekyll Book (Beta)</a> - (Official) Jekyll docu reformatted as a single-page online book in black &lsquo;n&rsquo; white</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
+    <link href="http://vienna-rb.at/blog/2016/02/10/picks/"/>
+    <updated>2016-02-10T14:00:00+01:00</updated>
+    <id>http://vienna-rb.at/blog/2016/02/10/picks</id>
+    <content type="html"><![CDATA[<h3>02/10 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the one-hundred-forty-third edition:</p>
+
+<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
+
+<ul>
+<li><a href="https://github.com/notwaldorf/frankly">Frankly</a> - A dashboard of issues and PRs for GitHub repos, made by the amazing <a href="https://twitter.com/notwaldorf">Monica</a> &lt;3</li>
+<li><a href="https://medium.com/@imcatnoone/designing-an-editor-theme-for-developers-9289e2382f27#.h25i35u9j">Designing an editor theme for developers</a> - <a href="https://twitter.com/imcatnoone">Cat Noone</a> explains in this article the process and conscious design decisions she went through when designing her Toothpaste editor theme. A really cool read!</li>
+<li><a href="https://imcatnoone.github.io/toothpaste/">Toothpaste</a> - A theme for Sublime Text designed with the user in mind. It&rsquo;s even F.lux-friendly!</li>
+</ul>
+
+
+<h5><a href="https://twitter.com/senorhuidobro">Ramón</a>:</h5>
+
+<ul>
+<li><a href="http://rorbservations.com/post/136816741674/rubys-unless-x-is-processed-differently">Ruby’s “unless X” is processed differently than “if !X”!</a> - Syed Humza Shah goes into some interesting intricacies of how Ruby handles boolean logic.</li>
+<li><a href="http://untra.github.io/polyglot/">Jekyll Polyglot</a> - I was making a multi-language Jekyll page, and found this very helpful for i18n!</li>
+</ul>
+
+
+<h5><a href="https://twitter.com/nuclearsquid">Markus</a>:</h5>
+
+<ul>
+<li><a href="http://sdtimes.com/nasas-10-rules-developing-safety-critical-code/">NASA’s 10 rules for developing safety-critical code</a> - The software that runs anything that goes into space is very critical, regardless of humans being aboard or not. These rules help NASA write software that&rsquo;s unlikely to fail even if your robot is currently exploring the outer fringes of our solar system.</li>
+<li><a href="https://blog.agilebits.com/2016/01/21/when-back-doors-go-bad-mind-your-ps-and-qs/">When back doors go bad: Mind your Ps and Qs</a> - Jeffrey Goldberg of 1Password explains how elliptic curve cryptography works, and why crypto that allows for backdoors (even if there aren&rsquo;t any) is generally less secure that crypto that doesn&rsquo;t allow backdoors in the first place.</li>
+<li><a href="http://www.troyhunt.com/2014/05/the-cobra-effect-that-is-disabling.html">The “Cobra Effect” that is disabling paste on password fields</a> - Troy Hunt tells the story of how the British tried to get a handle on their cobra problem in India, how it spectacularly backfired, and how this relates to modern-day snake-oil security measures.</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
+    <link href="http://vienna-rb.at/blog/2016/02/03/picks/"/>
+    <updated>2016-02-03T14:00:00+01:00</updated>
+    <id>http://vienna-rb.at/blog/2016/02/03/picks</id>
+    <content type="html"><![CDATA[<h3>02/03 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the one-hundred-forty-third edition:</p>
+
+<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
+
+<ul>
+<li><a href="https://www.getlektor.com/">Lektor</a> - From Carinthia with love: a new static CMS created by <a href="https://twitter.com/mitsuhiko">Armin Ronacher</a></li>
+<li><a href="https://opensource.com/resources/getting-started-open-source">Getting started in Open Source</a> - A list of articles, tutorials and resources</li>
+</ul>
+
+
+<h5><a href="https://twitter.com/nuclearsquid">Markus</a>:</h5>
+
+<ul>
+<li><a href="http://thecodelesscode.com/case/220">The Two Hard Things</a></li>
+<li><a href="http://jonathansacramento.com/posts/20160122-improve-postgresql-workflow-vim-dbext.html">Improve your PostgreSQL workflow with vim and dbext</a> - You got <code>psql</code> in my Vim.</li>
+<li><a href="http://danluu.com/teach-debugging/">Why don&rsquo;t schools teach debugging?</a> - It&rsquo;s a fundamental skill, but there are no classes for it.</li>
+</ul>
+
+
+<h5><a href="http://twitter.com/viennahtml">Gerald</a>:</h5>
+
+<ul>
+<li><a href="http://staystatic.github.io">Stay Static Showcase</a> - Inspired by TodoMVC Showcase; Same Sample Site Built w/ Jekyll, Middleman (Yes!), Hugo and others</li>
+<li><a href="http://twitter.com/statictimes">Static Times</a> - We live in static times! Follow along - the latest news (incl. static site spotlights) about Jekyll, Middleman and friends</li>
+<li><a href="http://viennahtml.github.io">Vienna.html 2nd Meetup - Tu Feb/23rd</a> - Join us @ sektor5. Free. Everyone welcome. Short talks about Building Page Layouts with Susy Grid by Bernhard Benke; Using Markdown (HTML “Shortcodes” in Plain Vanilla Text) with the kramdown Library and Tools by Thomas Leitner and (much) more</li>
+<li><a href="https://github.com/blog/2100-github-pages-now-faster-and-simpler-with-jekyll-3-0">GitHub Pages now faster and simpler with Jekyll 3.0</a> - Yay!</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
+    <link href="http://vienna-rb.at/blog/2016/01/27/picks/"/>
+    <updated>2016-01-27T14:00:00+01:00</updated>
+    <id>http://vienna-rb.at/blog/2016/01/27/picks</id>
+    <content type="html"><![CDATA[<h3>01/27 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the one-hundred-forty-third edition:</p>
+
+<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
+
+<ul>
+<li><a href="https://github.com/samshadwell/TrumpScript">TrumpScript</a> - It&rsquo;s not Ruby but it&rsquo;s still too great not to share.</li>
+<li><a href="http://hanamirb.org/blog/2016/01/22/lotus-is-now-hanami.html">Lotus is now Hanami</a> - Lotus has recently been renamed; read all about it in this blog post.</li>
+</ul>
+
+
+<h5><a href="https://twitter.com/senorhuidobro">Ramón</a>:</h5>
+
+<ul>
+<li><a href="https://www.npmjs.com/package/nativefier">Nativefier</a> - Run web apps as if they were native! Runs on Electron.</li>
+<li><a href="https://github.com/motion-kit/motion-kit">RubyMotion: MotionKit</a> - Really helpful DSL for setting up view layouts. No need for Interface Builder files!</li>
+<li><a href="https://css-tricks.com/print-magazine-layouts-converted-to-web-layouts/">Influencing Web Layouts with Print Layouts</a> - I found this an interesting read on using more magazine-styled layouts.</li>
+</ul>
+
+
+<h5><a href="https://twitter.com/nuclearsquid">Markus</a>:</h5>
+
+<ul>
+<li><a href="http://beero.ps/2015/01/22/on-ergonomics/">On Ergonomics</a> - Why an ergonomic working place is important (unless you like constant pain)</li>
+<li><a href="https://medium.com/@nicolaerusan/conceptual-debt-is-worse-than-technical-debt-5b65a910fd46#.jf5hh4ccp">Conceptual Debt is Worse than Technical Debt</a> - Yes, there&rsquo;s something even worse than technical debt out there.</li>
+<li><a href="https://codewords.recurse.com/issues/five/why-do-neural-networks-think-a-panda-is-a-vulture">How to trick a neural network into thinking a panda is a vulture</a> - Neural networks can do amazing things, but they can be tricked into seeing things that aren&rsquo;t quite what they seem.</li>
+</ul>
+
+
+<h5><a href="http://twitter.com/klappradla">Max</a>:</h5>
+
+<ul>
+<li><a href="http://bikeshed.fm/48">The Bike Shed 48: &ldquo;Is Everyone Trying Their Best?&rdquo;</a> - Software is broken - Derek and Sean on why it&rsquo;s not fun to be one of the developers who just don&rsquo;t care.</li>
+<li><a href="https://medium.com/@heidar/switching-from-rbenv-to-postmodern-s-ruby-install-and-chruby-f0daa24b36e6#.kejq2isop">Switching from rbenv to postmodern’s ruby-install and chruby</a> - Remind the unix philosophy and ditch rbenv (or rvm) for something more lightweight.</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+</feed>
